@@ -1,3 +1,0 @@
-package mode
-
-func mode() {}
